@@ -2,9 +2,10 @@
 
 Built the animated chat box using **framer-motion** library
 
+![Alt Text](https://github.com/venky4c/animated-chat/blob/master/dist/src/AnimatedChat.gif)
 
 
-### React skills used in this app
+### Key features of this project
 
 - Timer used from a 3rd party custom hook viz. use-it/interval
 
